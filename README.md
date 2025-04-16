@@ -1,4 +1,4 @@
-# Impl-mentation-du-moteur-et-de-l-interface-graphique-d-un-jeu-de-D-mineur-
+# Implementation-du-moteur-et-de-l-interface-graphique-d-un-jeu-de-Demineur-
 Ce projet est une implémentation du célèbre jeu Démineur (Minesweeper), développé en C++ avec une interface graphique basée sur Qt.
 
  Objectifs du projet
